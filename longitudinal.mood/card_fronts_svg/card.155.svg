@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<!--
+  ## Bridge size cards (56mm x 87mm)
+  ## must add bleed area of 3mm around all sides
+  ## guidelines are 5mm in from bleed area
+
+  ## Design must flow from guideline, out past bleed area, to edge of card
+
+  ## so 'bridge size' is 62 x 93
+-->
+
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   width="62mm"
+   height="93mm"
+   viewBox="0 0 62 93"
+   id="svg2"
+   >
+
+
+
+  <defs>
+    <g id="represent">
+      <g transform="translate(-2,-1) scale(0.02) translate(-315,-288)">
+	<!-- viewBox="0 0 630.999999999999 575.9999999999989" -->
+	<path
+	    style="fill:#fec80d"
+	    d="m 207.1219744833324,542 -1.1319829097054,0 9.4512447042642,-18.75 9.4512447042642,-18.75 13.8037595089223,-9.8086160200479 15.564880578448,-11.1183745231946 1.7611210695257,-1.3097585031466 4.9849972196876,-26.8021738542592 4.7388789304743,-27.0461493250608 -30.7461182892133,-23.2992946013398 -30.5,-23.0553191305383 -63.2363292336046,-73.2589641578844 -63.23632923360452,-73.2589641578845 -22.5167808385939,-52.5211928633219 -22.51678083859389,-52.521192863322 -7.50613626067693,-49.90742033380288 -7.1763466638504,-50.23720993060771 287.25924633287547,-4.31515741318776 286.9294567360488,-3.98536781638291 5.75,-0.62560915043912 5.75,-0.15955761678287 -6.500218051684,61.73237745772701 -6.500218051684,61.26632592407094 -13.6715550599662,26.6158094397027 -13.6715550599657,26.6158094397026 -51.8947165308332,73.6098716266611 -51.8947165308332,73.609871626661 -31.7412671119797,29.1647110288284 -31.7412671119797,29.1647110288283 -14.9422432455371,8.6453426434111 -15.156156258965,8.7726636912702 3.7013738525186,23.5800747010995 3.9152868659465,23.4527536532402 17.1068494699458,16.5 17.106849469946,16.5 9.8993283143231,17.4591150298772 9.6308010646652,17.7276422795388 -109.8305729402688,3.290884970123 z m -76.4013814132442,-273.301810346729 2.2205930700882,-2.198189653271 -3.9302333453072,-14.3473181146484 -9.5105568158354,-40.4166910601189 -8.0908711145573,-42.119859941795 -2.8268729273037,-16.3668122795979 -11.61476136773602,-2.2548277033638 -11.29843608446137,-1.9385024200903 -5.94469026142197,3.6112084143428 -5.94469026142191,3.6112084143427 0.71031982797544,10.4213399598549 0.71031982797551,10.4213399598548 5.368998043321,17.6537509999657 5.368998043321,17.6537509999656 14.69045672093613,24.3018872187562 14.6904567209361,24.3018872187563 6.5901884267017,4.9320088201588 6.5901884267016,4.9320088201586 z m 369.1396762207248,-19.2481896532709 24.1394383097847,-38.8490455839899 23.2791690189715,-37.8990455839899 3.881901644143,-8.9501714484817 3.8819016441428,-8.9501714484817 -2.9688708990498,-11.0149805793182 -3.2713399539275,-11.2993178008013 -8.8123242822064,-0.984075426724 -8.5098552273288,-0.6997382052408 -6.7133893452782,13.8482730385137 -6.7133893452777,13.8482730385137 -7.0067968883983,19.5 -7.0067968883982,19.5 -2.519958538995,25.6985010822191 -2.5199585389951,26.45 0,0.7514989177809 z" />
+      </g>
+      <g transform="translate(2,3) scale(0.05) translate(-88,-80)">
+	<!--viewBox="-0.259 -0.055 176 161"-->
+	<rect height="150" width="165.52" stroke="#000000" stroke-linecap="square" y="5" x="5" stroke-width="10" fill="#FFFFFF" />
+	<linearGradient y2="116.21" gradientUnits="userSpaceOnUse" x2="87.758" y1="17.932" x1="87.758" id="pic_grad">
+	  <stop style="stop-color:#8BC53F" offset="0" />
+	  <stop style="stop-color:#6C9C31" offset="1" />
+	</linearGradient>
+	<rect height="98.275" width="139.66" stroke="#000000" stroke-linecap="square" y="17.932" x="17.93" 
+	      stroke-width="5" fill="url(#pic_grad)" />
+      </g>
+    </g>
+
+
+    <g id="door" transform="scale(0.013) translate(-314.5,-499.5)">
+      <!--viewBox="0 0 629 999" "fill:#e0c0c0"-->
+      <path style="fill:#000"
+	    d="m627 993l1-988h-627v986l626 2z" />
+      <ellipse style="fill:#fff" cx="320" rx="189" cy="898" ry="12" />
+      <ellipse style="fill:#fff" cx="543" rx="12"  cy="494" ry="411" />
+      <ellipse style="fill:#fff" cx="320" rx="191" cy="94"  ry="11" />
+      <ellipse style="fill:#fff" cx="97"  rx="12"  cy="496" ry="412" />
+      <ellipse style="fill:#fff" cx="155" rx="11"  cy="702" ry="156" />
+      <ellipse style="fill:#fff" cx="316" rx="132" cy="841" ry="12" />
+      <ellipse style="fill:#fff" cx="478" rx="12"  cy="706" ry="152" />
+      <ellipse style="fill:#fff" cx="318" rx="131" cy="565" ry="11" />
+      <ellipse style="fill:#fff" cx="155" rx="11"  cy="297" ry="154" />
+      <ellipse style="fill:#fff" cx="316" rx="126" cy="435" ry="11" />
+      <path style="fill:#fff"
+	    d="m487 437l1-279-1-5-2-4-4-2-5-1-4 1-4 2-2 4-1 4-1 280 1 5 2 4 4 2 4 1 5-1 4-2 2-4 1-5z" />
+      <ellipse style="fill:#fff" cx="315" rx="129" cy="157" ry="11" />
+      <circle  style="fill:#fff" cx="478" r="8"    cy="493" />
+      <circle  style="fill:#fff" cx="478" r="31"   cy="493" />
+    </g>
+
+    <g id="male2">
+      <text x="-14" y="0" dy="-1" text-anchor="start" alignment-baseline="middle" font-size="8" style="stroke:#000;stroke-width:0.5;fill:#fff;font-weight:bold">BOY</text>
+      <text x="13" y="0" dy="8" text-anchor="end" alignment-baseline="middle" font-size="12" style="stroke:#000;stroke-width:0.5;fill:#fff;font-weight:bold">♂</text>
+    </g>
+    <g id="female2">
+      <text x="-14" y="0" dy="8" text-anchor="start" font-size="8" style="stroke:#000;stroke-width:0.5;fill:#fff;font-weight:bold">GIRL</text>
+      <text x="13" y="0" dy="0" text-anchor="end" alignment-baseline="middle" font-size="12" style="stroke:#000;stroke-width:0.5;fill:#fff;font-weight:bold">♀</text>
+    </g>
+
+
+    <g id="male" transform="scale(0.055) translate(-90,-90)">
+      <text x="-120" y="30" dy="-1" text-anchor="start" alignment-baseline="middle" font-size="90" style="stroke:#000;stroke-width:4;fill:#fff;font-weight:bold">BOY</text>
+      <path
+	  stroke-linejoin="round"
+	  d="m160 8l-8 14h20l-37 37a79 79 0 1 0 16 16l37-37v20l14-8v-42h-42zm-72 57a57 57 0 1 1 0 114 57 57 0 1 1 0 -114z"
+	  stroke="#000000"
+	  stroke-width="6"
+	  fill="#ffffff"
+	  />
+    </g>
+    <g id="female" transform="scale(0.055) translate(-60,-140)">
+      <text x="-150" y="250" dy="-1" text-anchor="start" alignment-baseline="middle" font-size="90" style="stroke:#000;stroke-width:4;fill:#fff;font-weight:bold">GIRL</text>
+      <path
+	  stroke-linejoin="round"
+	  d="m117 134a65 65 0 1 0 -23 0v22h-26v21h26v27h23v-27h25v-21h-25v-22zm37-64a48 48 0 1 1 -96 0 48 48 0 1 1 96 0z"
+	  stroke="#000000"
+	  stroke-width="6"
+	  fill="#ffffff"
+	  />
+    </g>
+
+    <g id="sad" transform="scale(0.05) translate(-200,-150)">
+      <path transform="translate(-36.315228,-238.02412)"
+            d="m 355.06007,389.66882 a 117.92609,117.92609 0 1 1 -235.85217,0 117.92609,117.92609 0 1 1 235.85217,0 z"
+            style="fill:#0072B2;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path transform="translate(18.481953,-60.49409)"
+            d="m 158.94386,167.2756 a 14.740762,14.740762 0 1 1 -29.48153,0 14.740762,14.740762 0 1 1 29.48153,0 z"
+            style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+            d="m 158.94386,167.2756 a 14.740762,14.740762 0 1 1 -29.48153,0 14.740762,14.740762 0 1 1 29.48153,0 z"
+            transform="translate(94.749376,-60.49409)" />
+      <path d="m 119.81876,209.6447 c 0,-19.65305 36.26494,-35.58499 81.00001,-35.58499 44.73506,0 81,15.93194 81,35.13362 0,-31.43304 -36.26495,-56.54863 -81.00001,-56.54863 -44.73506,0 -81,25.11559 -81,56.09726 l 0,0.45138 z"
+            style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0" />
+    </g>
+    <g id="happy" transform="scale(0.05) translate(-200,-420)">
+      <path transform="translate(-36.315225,31.975913)"
+            d="m 355.06007,389.66882 a 117.92609,117.92609 0 1 1 -235.85217,0 117.92609,117.92609 0 1 1 235.85217,0 z"
+            style="fill:#E69F00;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path transform="translate(18.481953,209.50594)"
+            d="m 158.94386,167.2756 a 14.740762,14.740762 0 1 1 -29.48153,0 14.740762,14.740762 0 1 1 29.48153,0 z"
+            style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+            d="m 158.94386,167.2756 a 14.740762,14.740762 0 1 1 -29.48153,0 14.740762,14.740762 0 1 1 29.48153,0 z"
+            transform="translate(94.749376,209.50594)" />
+      <path d="m 119.81876,422.64473 c 0,19.65305 36.26494,35.58499 81.00002,35.58499 44.73505,0 80.99998,-15.93194 80.99998,-35.13362 0,31.43304 -36.26495,56.54863 -81.00001,56.54863 -44.73505,0 -80.99999,-25.11559 -80.99999,-56.09726 l 0,-0.45138 z"
+            style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0" />
+    </g>
+    <g id="neutral" transform="scale(0.05) translate(-540,-185)">
+      <path transform="translate(293.68477,-208.02409)"
+            d="m 355.06007,389.66882 a 117.92609,117.92609 0 1 1 -235.85217,0 117.92609,117.92609 0 1 1 235.85217,0 z"
+            style="fill:#F0E442;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path transform="translate(348.48195,-30.494059)"
+            d="m 158.94386,167.2756 a 14.740762,14.740762 0 1 1 -29.48153,0 14.740762,14.740762 0 1 1 29.48153,0 z"
+            style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+            d="m 158.94386,167.2756 a 14.740762,14.740762 0 1 1 -29.48153,0 14.740762,14.740762 0 1 1 29.48153,0 z"
+            transform="translate(424.74938,-30.494059)" />
+      <rect y="204.86218"
+            x="470.81876"
+            height="10"
+            width="120"
+            style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    </g>
+    <g id="very_happy" transform="scale(0.05) translate(-500,-575)">
+      <path transform="translate(263.68477,181.97591)"
+            d="m 355.06007,389.66882 a 117.92609,117.92609 0 1 1 -235.85217,0 117.92609,117.92609 0 1 1 235.85217,0 z"
+            style="fill:#D55E00;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path transform="translate(318.48195,359.50594)"
+            d="m 158.94386,167.2756 a 14.740762,14.740762 0 1 1 -29.48153,0 14.740762,14.740762 0 1 1 29.48153,0 z"
+            style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+            d="m 158.94386,167.2756 a 14.740762,14.740762 0 1 1 -29.48153,0 14.740762,14.740762 0 1 1 29.48153,0 z"
+            transform="translate(394.74938,359.50594)" />
+      <path transform="matrix(1.2780205,0,0,1,-138.19148,-217.5)"
+            d="m 560,792.36218 a 60,60 0 1 1 -120,0"
+            style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:4.42283869;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    </g>
+    <g id="very_sad" transform="scale(0.05) translate(-200,-800)">
+      <path transform="translate(-36.060074,421.61945)"
+            d="m 355.06007,389.66882 a 117.92609,117.92609 0 1 1 -235.85217,0 117.92609,117.92609 0 1 1 235.85217,0 z"
+            style="fill:#009E73;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path transform="matrix(1,0,0,1.2949758,18.737106,554.15539)"
+            d="m 158.94386,167.2756 a 14.740762,14.740762 0 1 1 -29.48153,0 14.740762,14.740762 0 1 1 29.48153,0 z"
+            style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:4.39378881;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:4.39378881;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+            d="m 158.94386,167.2756 a 14.740762,14.740762 0 1 1 -29.48153,0 14.740762,14.740762 0 1 1 29.48153,0 z"
+            transform="matrix(1,0,0,1.2949758,95.004536,554.15539)" />
+      <path transform="matrix(1.2780205,0,0,-1,-437.93632,1667.2244)"
+            d="m 560,792.36218 a 60,60 0 1 1 -120,0"
+            style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:4.42283869;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    </g>
+
+  </defs>
+
+
+
+
+  <g id="sheet">
+    <rect width="62" height="93" x="0" y="0" rx="0" ry="0" transform="translate(0,0)" 
+	  style="color:#000000;
+          fill:#6A3B77;
+          stroke:#6A3B77;
+          stroke-width:0.5;
+          stroke-linecap:round;
+          stroke-linejoin:round;
+          stroke-miterlimit:1;
+          stroke-opacity:1;
+          stroke-dasharray:none;
+          stroke-dashoffset:0;"
+          />
+
+    <rect width="56" height="87" x="3" y="3" rx="6" ry="6" transform="translate(0,0)" 
+	  style="color:#000000;
+          fill:#6A3B77;
+          stroke:#6A3B77;
+          stroke-width:0.5;
+          stroke-linecap:round;
+          stroke-linejoin:round;
+          stroke-miterlimit:1;
+          stroke-opacity:1;
+          stroke-dasharray:none;
+          stroke-dashoffset:0;"
+          />
+
+    <rect width="46" height="77" x="8" y="8" rx="3" ry="3" transform="translate(0,0)" 
+	  style="color:#000000;
+          fill:#fff;
+          stroke:#6A3B77;
+          stroke-width:0.5;
+          stroke-linecap:round;
+          stroke-linejoin:round;
+          stroke-miterlimit:1;
+          stroke-opacity:1;
+          stroke-dasharray:none;
+          stroke-dashoffset:0;"
+          />
+
+  </g>
+
+
+
+
+  <g id="panels">
+      <rect style="color:#000000;fill:#ccc;fill-opacity:1;stroke:none;stroke-width:1;" 
+	    transform="translate(-22,0)" width="44" height="12" x="31" y="9" rx="3" ry="3" />
+
+      <rect style="color:#000000;fill:#ccc;fill-opacity:1;stroke:none;stroke-width:1;" 
+	    transform="translate(-22,0)" width="44" height="15" x="31" y="24" rx="3" ry="3" />
+
+      <rect style="color:#000000;fill:#ccc;fill-opacity:1;stroke:none;stroke-width:1;" 
+	    transform="translate(-10,0)" width="20" height="15" x="20" y="40" rx="3" ry="3" />
+      <rect style="color:#000000;fill:#ccc;fill-opacity:1;stroke:none;stroke-width:1;" 
+	    transform="translate(-10,0)" width="20" height="15" x="42" y="40" rx="3" ry="3" />
+
+      <rect style="color:#000000;fill:#ccc;fill-opacity:1;stroke:none;stroke-width:1;" 
+	    transform="translate(-22,0)" width="44" height="14" x="31" y="56" rx="3" ry="3" />
+
+      <rect style="color:#000000;fill:#ccc;fill-opacity:1;stroke:none;stroke-width:1;" 
+	    transform="translate(-22,0)" width="44" height="8" x="31" y="72" rx="3" ry="3" />
+  </g>
+
+
+  <g>    <use xlink:href="#female" x="23" y="48"></use>    <use xlink:href="#door" x="18" y="63"></use>    <use xlink:href="#neutral"    x="31" y="31"></use>    <text x="31" y="18" text-anchor="middle" alignment-baseline="middle" font-size="9" 
+	  style="fill:#000;font-style:normal;font-weight:bold">a / UJ-0</text>
+    <text x="31" y="78" text-anchor="middle" alignment-baseline="middle" font-size="6" 
+	  style="fill:#000;font-style:italic">10/May/2010</text>
+
+    <text x="31" y="83" text-anchor="middle" font-size="2.5" style="fill:#000"><tspan>531</tspan></text>
+  </g>
+
+<!--
+From openlipart.org used: male/female symbols, door, photo, and trophy. 
+(details below from original svg files)
+
+        <dc:title
+          >Female Symbol</dc:title
+        >
+        <dc:date
+          >2007-03-30T13:45:40</dc:date
+        >
+        <dc:description
+        />
+        <dc:source
+          >https://openclipart.org/detail/3699/female-symbol-by-kumar35885</dc:source
+        >
+        <dc:creator
+          >
+          <cc:Agent
+            >
+            <dc:title
+              >kumar35885</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:creator
+        >
+        <dc:publisher
+          >
+          <cc:Agent
+              rdf:about="http://openclipart.org/"
+            >
+            <dc:title
+              >Openclipart</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:publisher
+        >
+
+
+
+
+        <dc:title
+          >Male Symbol</dc:title
+        >
+        <dc:date
+          >2007-03-30T13:44:32</dc:date
+        >
+        <dc:description
+        />
+        <dc:source
+          >https://openclipart.org/detail/3698/male-symbol-by-kumar35885</dc:source
+        >
+        <dc:creator
+          >
+          <cc:Agent
+            >
+            <dc:title
+              >kumar35885</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:creator
+        >
+
+
+        <dc:title
+          >Door - white stroke</dc:title
+        >
+        <dc:date
+          >2006-12-28T12:05:14</dc:date
+        >
+        <dc:description
+          >Converted to SVG from clipart on “PC för alla” CD 3-2003.</dc:description
+        >
+        <dc:source
+          >https://openclipart.org/detail/2356/door - - -white-stroke-by-liftarn</dc:source
+        >
+        <dc:creator
+          >
+          <cc:Agent
+            >
+            <dc:title
+              >liftarn</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:creator
+-->
+
+<!--
+
+<dc:title
+          >Photo</dc:title
+        ><dc:date
+          >2008-06-14T11:08:46</dc:date
+        ><dc:description
+          >Photo.</dc:description
+        ><dc:source
+          >https://openclipart.org/detail/17372/photo-by-ytknick</dc:source
+        ><dc:creator
+          ><cc:Agent
+            ><dc:title
+              >ytknick</dc:title
+            ></cc:Agent
+
+
+-->
+
+<!--
+   sodipodi:docname="Trophy.svg"><metadata
+     id="metadata8"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title><dc:date>2016</dc:date><dc:creator><cc:Agent><dc:title>Lazur</dc:title></cc:Agent></dc:creator><dc:description>Original raster images of this series were uploaded by NicholasJudy456 to openclipart embedded in svg-s (416 in total).  This is one of the refixes upon request by the original author.</dc:description>
+-->
+
+</svg>
+
